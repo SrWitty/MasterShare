@@ -21,6 +21,8 @@ Project Bot Share Discord is an advanced Discord bot designed to facilitate serv
 
 Create **.env** file and past this code and pastD Discord Bot Token And Mongodb
 
+- [Discord Developer](https://discord.com/developers/applications)
+- [Mongodb](https://www.mongodb.com/)
 
 token= Discord Bot Token
 prime_db= MongoDB Token
