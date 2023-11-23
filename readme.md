@@ -24,6 +24,7 @@ Create **.env** file and past this code and pastD Discord Bot Token And Mongodb
 - [Discord Developer](https://discord.com/developers/applications)
 - [Mongodb](https://www.mongodb.com/)
 
+```js
 token= Discord Bot Token
 prime_db= MongoDB Token
 coins_db=
@@ -32,6 +33,7 @@ blacklist_db=
 primecmds_db=
 coinstime_db=
 badges_db=
+```
 
 ## Credits
 
